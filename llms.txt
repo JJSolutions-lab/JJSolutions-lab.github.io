@@ -1,0 +1,30 @@
+# JJ Solutions Lab
+
+> JJ Solutions Lab is a founder-led technology company providing AI, data, software engineering, DevOps, cloud, IoT, automation, business intelligence, and process-improvement solutions.
+
+## Official website
+
+- [Home](https://jjsolutions-lab.github.io/): Company overview, services, technology capabilities, process, and founder information.
+- [About](https://jjsolutions-lab.github.io/about-us/): Company values, delivery approach, and founder profile.
+- [Products](https://jjsolutions-lab.github.io/products/): Business software products developed by JJ Solutions Lab.
+- [Internship](https://jjsolutions-lab.github.io/internship/): Practical internship tracks in software, data, AI, cloud, and DevOps.
+- [Certificate verification](https://jjsolutions-lab.github.io/verify-certificate/): Official internship certificate verification.
+- [Contact](https://jjsolutions-lab.github.io/contact-us/): Official business contact details and inquiry form.
+
+## Core capabilities
+
+- Data science and machine learning
+- Root cause analysis consulting
+- Causal AI integration
+- Database development
+- Business intelligence and analytics
+- Process intelligence and operational excellence
+- DevOps, cloud, DataOps, and data engineering
+- IoT solutions and custom business software
+
+## Official identity
+
+- Organization: JJ Solutions Lab
+- Founder and owner: Jeevan Larosh
+- Email: jjprocessintelligence@gmail.com
+- Canonical URL: https://jjsolutions-lab.github.io/

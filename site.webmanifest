@@ -1,0 +1,17 @@
+{
+  "name": "JJ Solutions Lab",
+  "short_name": "JJ Lab",
+  "description": "AI, data, software engineering, DevOps, cloud, IoT, automation, and business intelligence solutions.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#040914",
+  "theme_color": "#040914",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
